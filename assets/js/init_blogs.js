@@ -1,26 +1,26 @@
 // Sample array of objects
 const blogCards = [
-    {
-      imageURL: "assets/img/Uploads/mavenErrorWithEclipseVersionWithDescription.webp",
-      authorName: "E Pabitra",
-      date: "26 July, 2023",
-      header: "NoSuchMethodError while Creating Spring Starter Projects",
-      blogURL: "blog-details-maven-issue-with-eclipse.html",
-    },
-    {
-      imageURL: "assets/img/blog/MVC Blog.png",
-      authorName: "E Pabitra",
-      date: "18 May, 2023",
-      header: "Right Way Of Developing Web Application With MVC Architecture",
-      blogURL: "blog-details-mvc-webapp.html",
-    },
-    {
-        imageURL: "assets/img/blog/lapi2.webp",
-        authorName: "E Pabitra",
-        date: "4 May, 2023",
-        header: "Started a new position as Graduate Trainee Engineer at Vidyayug Pvt.Ltd",
-        blogURL: "javascript:void(0);",
-      },
+    // {
+    //   imageURL: "assets/img/Uploads/mavenErrorWithEclipseVersionWithDescription.webp",
+    //   authorName: "E Pabitra",
+    //   date: "26 July, 2023",
+    //   header: "NoSuchMethodError while Creating Spring Starter Projects",
+    //   blogURL: "blog-details-maven-issue-with-eclipse.html",
+    // },
+    // {
+    //   imageURL: "assets/img/blog/MVC Blog.png",
+    //   authorName: "E Pabitra",
+    //   date: "18 May, 2023",
+    //   header: "Right Way Of Developing Web Application With MVC Architecture",
+    //   blogURL: "blog-details-mvc-webapp.html",
+    // },
+    // {
+    //     imageURL: "assets/img/blog/lapi2.webp",
+    //     authorName: "E Pabitra",
+    //     date: "4 May, 2023",
+    //     header: "Started a new position as Graduate Trainee Engineer at Vidyayug Pvt.Ltd",
+    //     blogURL: "javascript:void(0);",
+    //   },
 ];
 
 generateBlogContent(blogCards);
